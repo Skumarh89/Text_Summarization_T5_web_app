@@ -1,5 +1,5 @@
 # Text_Summarization_T5_Streamlit
-  This repository contains code for training a T5-based text summarization model and deploying it as a Streamlit web app. The T5 model is fine-tuned on a summarization task using the Hugging Face Transformers library, and the trained model is then loaded and used in a Streamlit web app for generating text summaries.
+  This repository contains code for training a 'Text-to-Text Transfer Transformer' (T5)-based text summarization model and deploying it as a Streamlit web app. The T5 model is fine-tuned on a summarization task using the Hugging Face Transformers library, and the trained model is then loaded and used in a Streamlit web app for generating text summaries.
   #### Table of Contents
 
    * Prerequisites
